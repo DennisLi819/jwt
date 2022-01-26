@@ -11,7 +11,7 @@ dependencies:
   asn1lib: ^1.0.0
   crypto: ^3.0.0
   logging: ^1.0.0
-  pointycastle: ^3.0.0
+  pointycastle: ^3.5.0
   rsa_pkcs: ^2.0.0
 
 dev_dependencies:
